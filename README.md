@@ -1,3 +1,11 @@
+ℹ️ℹ️ℹ️ This example project is not actively maintained and is using an old version (v9) of tRPC ℹ️ℹ️ℹ️
+
+If you're looking for alternatives, have a look at https://github.com/t3-oss/create-t3-turbo and other reference projects on https://trpc.io/docs/awesome-trpc
+
+
+---
+
+
 # zART-Stack 🤯
 
 > **Z**ero-**A**PI, **R**eact, & **T**ypeScript
